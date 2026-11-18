@@ -1,10 +1,14 @@
 # Token Radar
 
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/rayarvan77/token-launch-radar/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/rayarvan77/token-launch-radar/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+
 Which pre-token protocol is worth farming next — and what do you do about it?
 
 Token Radar reads a sealed snapshot of the protocol universe (DefiLlama, 2026-11-14),
 finds every genuine pre-token launch candidate, ranks them by an implied value, and
-shows a farm plan for each one. Built for the make.fun bounty
+shows a farm plan for each one. Built for the [make.fun](https://make.fun) bounty
 **token-radar-01** ("Build the best token launch radar").
 
 ## The model (radar-2)
